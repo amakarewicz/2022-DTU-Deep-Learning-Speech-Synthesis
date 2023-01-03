@@ -1,0 +1,2 @@
+LJSpeech dataset: https://keithito.com/LJ-Speech-Dataset/ (data from LJ003 to LJ012 used for training the models, LJ028 - subset for testing)
+Common Voice Portuguese audio files: https://drive.google.com/drive/folders/1QIET7O6Zwsfx0JbPEqGEqSySFw4yfp83?usp=share_link
